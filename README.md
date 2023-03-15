@@ -30,7 +30,7 @@
 ### 中产阶级论坛
 [Zhihu](https://www.zhihu.com)
 
-#
+
 
 # [娱乐致死](https://poki.com)
 #### [yesplaymusic](https://music.hexo.icu)
@@ -56,4 +56,6 @@
 [野兽先辈の传奇一生 - 知乎](https://zhuanlan.zhihu.com/p/164581850)
 
 # 
+[1](https://cts.chazhi.net/)
 
+[2](https://upuptoyou.com/)
