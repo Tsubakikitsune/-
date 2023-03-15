@@ -29,7 +29,10 @@
 
 [age](https://www.agemys.com)
 
+[纸片生成](https://yijiankoutu.com/aiimg/)
+
 [Poki](https://poki.com)
+
 
 #
 生死疲劳
