@@ -3,14 +3,24 @@
 
 [Yot](https://www.youdao.com/result?word=hello%20world&lang=en)
 
-[ans](https://fanyi.youdao.com)
+[youdaofanyi](https://fanyi.youdao.com)
 
-#网址啊
+[baidufanyi](fanyi.baidu.com)
 
-[异世界](https://www.ysjdm.net)
-
-[yesplaymusic](https://music.hexo.icu)
+#搜索引擎
 
 [Bing](https://cn.bing.com)
 
+[baidu](https://www.baidu.com)
+
+#娱乐至死
+
+[ysjdm](https://www.ysjdm.net)
+
+[yesplaymusic](https://music.hexo.icu)
+
 [age](https://www.agemys.com)
+
+#
+
+[114514](https://www.114514.com)
