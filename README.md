@@ -23,7 +23,7 @@
 #
 
 # [娱乐致死](https://poki.com)
-## [yesplaymusic](https://music.hexo.icu)
+#### [yesplaymusic](https://music.hexo.icu)
 
 [拼图](https://gallerix.asia/)
 
