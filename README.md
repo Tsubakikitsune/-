@@ -5,4 +5,7 @@
 [yesplaymusic](https://music.hexo.icu)
 
 [Bing](https://cn.bing.com)
-[]()
+
+[ysjdm](https://www.ysjdm.net)
+
+[age](https://www.agemys.com)
