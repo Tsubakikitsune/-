@@ -19,6 +19,8 @@
 
 [藏头诗](https://cts.chazhi.net/)
 
+[手动头](https://picrew.me/)
+
 
 # 搜索引擎
 
@@ -29,8 +31,11 @@
 ### 博物馆
 [Phone museum](https://mobilephonemuseum.com/)
 [三秋书屋](https://www.d4j.cn/)
+[AirPano](https://airpano.com)
+
 ### 中产阶级论坛
 [Zhihu](https://www.zhihu.com)
+### [卡巴斯基网络实时攻击地图](https://cybermap.kaspersky.com/cn)
 
 
 
@@ -39,8 +44,9 @@
 
 [拼图](https://gallerix.asia/)
 
+[魔方](https://tools.bqrdh.com/rubiks-cube/)
 
-[AirPano](https://airpano.com)
+
 
 
 
@@ -58,8 +64,5 @@
 [野兽先辈の传奇一生 - 知乎](https://zhuanlan.zhihu.com/p/164581850)
 
 # 
-
-
-[2](https://upuptoyou.com/)
 
 
