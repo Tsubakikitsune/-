@@ -17,6 +17,8 @@
 
 [纸片](https://www.yijiankoutu.com/aiimg/?zhhxx230219-607657637)
 
+[藏头诗](https://cts.chazhi.net/)
+
 
 # 搜索引擎
 
@@ -56,6 +58,6 @@
 [野兽先辈の传奇一生 - 知乎](https://zhuanlan.zhihu.com/p/164581850)
 
 # 
-[1](https://cts.chazhi.net/)
+
 
 [2](https://upuptoyou.com/)
