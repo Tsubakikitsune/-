@@ -11,9 +11,13 @@
 #
 [Cat there](https://m.niucodata.com/cat/cat.php)
 ## 生成器
-[在线彩虹屁](https://chp.shadiao.app/)
+[彩虹屁](https://chp.shadiao.app/)
 
-[狗屁不通文章生成器](https://tool.mkblog.cn/bullshit)
+[烧酒](https://www.thiswaifudoesnotexist.net)
+
+[纸片](https://www.yijiankoutu.com/aiimg/?zhhxx230219-607657637)
+
+
 # 搜索引擎
 
 [Bing](https://cn.bing.com)
@@ -31,13 +35,10 @@
 
 [拼图](https://gallerix.asia/)
 
-[纸片生成](https://www.yijiankoutu.com/aiimg/?zhhxx230219-607657637)
 
 [AirPano](https://airpano.com)
 
-[烧酒生成器](https://www.thiswaifudoesnotexist.net)
 
-[]
 
 
 # 生死疲劳
