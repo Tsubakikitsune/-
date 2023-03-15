@@ -19,6 +19,8 @@
 
 [藏头诗](https://cts.chazhi.net/)
 
+[为所欲为成语](https://lab.bangbang93.com/wsyw)
+
 [画像](https://picrew.me/)
 
 
@@ -46,6 +48,9 @@
 
 [魔方](https://tools.bqrdh.com/rubiks-cube/)
 
+[Dos](https://dos.zczc.cz/)
+
+[致死](https://www.crazygames.com/)
 
 
 
