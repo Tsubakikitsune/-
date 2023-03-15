@@ -44,7 +44,7 @@
 
 
 # [娱乐致死](https://poki.com)
-## _适度游戏益脑，过度游戏伤身_
+_适度游戏益脑，过度游戏伤身_
 #### [yesplaymusic](https://music.hexo.icu)
 
 [拼图](https://gallerix.asia/)
