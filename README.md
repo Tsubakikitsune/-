@@ -26,11 +26,11 @@
 
 娱乐至死
 
-[ysjdm](https://www.ysjdm.net)
+
 
 [yesplaymusic](https://music.hexo.icu)
 
-[age](https://www.agemys.com)
+
 
 #
 
