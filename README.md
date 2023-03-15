@@ -8,7 +8,8 @@
 
 [Baidufanyi](fanyi.baidu.com)
 
-[cat](https://m.niucodata.com/cat/cat.php)
+#
+[Cat there](https://m.niucodata.com/cat/cat.php)
 #
 
 搜索引擎
@@ -18,7 +19,8 @@
 [Baidu](https://www.baidu.com)
 
 #
-
+[Phone museum](https://mobilephonemuseum.com/)
+#
 [Zhihu](https://www.zhihu.com)
 #
 
