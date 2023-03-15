@@ -4,9 +4,9 @@
 
 [Yot](https://www.youdao.com/result?word=hello%20world&lang=en)
 
-[youdaofanyi](https://fanyi.youdao.com)
+[Youdaofanyi](https://fanyi.youdao.com)
 
-[baidufanyi](fanyi.baidu.com)
+[Baidufanyi](fanyi.baidu.com)
 
 #
 
@@ -14,11 +14,11 @@
 
 [Bing](https://cn.bing.com)
 
-[baidu](https://www.baidu.com)
+[Baidu](https://www.baidu.com)
 
 #
 
-[zhihu](https://www.zhihu.com)
+[Zhihu](https://www.zhihu.com)
 #
 
 娱乐至死
@@ -32,7 +32,7 @@
 #
 生死疲劳
 
-[tieba](https://tieba.baidu.com)
+[TB](https://tieba.baidu.com)
 
 [SB😅](https://tieba.baidu.com/p/7553188326)
 
