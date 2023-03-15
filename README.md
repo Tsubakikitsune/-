@@ -29,9 +29,15 @@
 
 [age](https://www.agemys.com)
 
+#
+
+[拼图](https://gallerix.asia/)
+
 [纸片生成](https://www.yijiankoutu.com/aiimg/?zhhxx230219-607657637)
 
 [Poki](https://poki.com)
+
+[AirPano](https://airpano.com)
 
 
 #
