@@ -1,7 +1,8 @@
 
 
 [生生不息](https://du.shadiao.app/)
-=[Yot](https://www.youdao.com/result?word=hello%20world&lang=en)
+
+[Yot](https://www.youdao.com/result?word=hello%20world&lang=en)
 
 [Youdaofanyi](https://fanyi.youdao.com)
 
