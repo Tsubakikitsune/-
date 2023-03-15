@@ -19,7 +19,7 @@
 
 [藏头诗](https://cts.chazhi.net/)
 
-[手动头](https://picrew.me/)
+[画像](https://picrew.me/)
 
 
 # 搜索引擎
