@@ -42,6 +42,8 @@
 
 [AirPano](https://airpano.com)
 
+[烧酒生成器](https://www.thiswaifudoesnotexist.net)
+
 
 #
 生死疲劳
