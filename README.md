@@ -44,5 +44,3 @@
 
 [野兽先辈の传奇一生 - 知乎](https://zhuanlan.zhihu.com/p/164581850)
 
-
-[()，，，，](zhuanlan.zhihu.com/p/607657637)
