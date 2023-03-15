@@ -1,6 +1,6 @@
 
 
-[生生不息](https://du.shadiao.app/)
+# [生生不息](https://du.shadiao.app/)
 
 [Yot](https://www.youdao.com/result?word=hello%20world&lang=en)
 
@@ -10,9 +10,7 @@
 
 #
 [Cat there](https://m.niucodata.com/cat/cat.php)
-#
-
-搜索引擎
+# 搜索引擎
 
 [Bing](https://cn.bing.com)
 
@@ -24,15 +22,8 @@
 [Zhihu](https://www.zhihu.com)
 #
 
-#[娱乐致死](https://poki.com)
-
-
-
-[yesplaymusic](https://music.hexo.icu)
-
-
-
-#
+# [娱乐致死](https://poki.com)
+## [yesplaymusic](https://music.hexo.icu)
 
 [拼图](https://gallerix.asia/)
 
@@ -43,16 +34,13 @@
 [烧酒生成器](https://www.thiswaifudoesnotexist.net)
 
 
-#
-生死疲劳
+# 生死疲劳
 
 [TB](https://tieba.baidu.com)
 
-[SB😅](https://tieba.baidu.com/p/7553188326)
+**[SB😅](https://tieba.baidu.com/p/7553188326)**
 
-#
-
-田所之家
+# ***田所之家***
 
 [如何评价下北泽工人党主席李田所？ - 知乎](https://www.zhihu.com/question/472851981)
 
