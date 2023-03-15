@@ -1,6 +1,6 @@
 
-[mikutap](https://aidn.jp/mikutap/)
-# [生生不息](https://du.shadiao.app/)
+# ***[生生不息](https://aidn.jp/mikutap/)***
+ 
 
 [Yot](https://www.youdao.com/result?word=hello%20world&lang=en)
 
@@ -11,6 +11,8 @@
 #
 [Cat there](https://m.niucodata.com/cat/cat.php)
 ## 生成器
+[毒鸡汤](https://du.shadiao.app/)
+
 [彩虹屁](https://chp.shadiao.app/)
 
 [烧酒](https://www.thiswaifudoesnotexist.net)
