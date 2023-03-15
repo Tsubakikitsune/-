@@ -32,7 +32,7 @@
 #
 生死疲劳
 
-[tieba](https://www.baidu.tieba)
+[tieba](https://tieba.baidu.com)
 
 #
 
