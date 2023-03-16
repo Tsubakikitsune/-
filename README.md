@@ -45,7 +45,7 @@
 
 
 
-# [娱乐致死](https://poki.com)
+# 娱乐至死
 _适度游戏益脑，过度游戏伤身_
 
 [拼图](https://gallerix.asia/)
