@@ -39,7 +39,7 @@
 
 ### 中产阶级论坛
 [Zhihu](https://www.zhihu.com)
-### [卡巴斯基网络实时攻击地图](https://cybermap.kaspersky.com/cn)
+### [kaspersky](https://cybermap.kaspersky.com/cn)
 
 
 
