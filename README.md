@@ -15,4 +15,4 @@
 
 # Experimenta
 
-[https://nebula-chat.github.io](exp 01)
+[exp01](https://nebula-chat.github.io)
