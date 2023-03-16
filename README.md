@@ -64,7 +64,7 @@ _适度游戏益脑，过度游戏伤身_
 
 [TB](https://tieba.baidu.com)
 
-****[SB😅](https://tieba.baidu.com/p/7553188326)****
+****[SB😅](https://jump2.bdimg.com/f?kw=孙笑川&ie=utf-8)****
 
 # ***田所之家***
 
