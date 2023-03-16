@@ -8,6 +8,7 @@
 
 [Baidufanyi](fanyi.baidu.com)
 
+#### [yesplaymusic](https://music.hexo.icu)
 #
 [Cat there](https://m.niucodata.com/cat/cat.php)
 ## 生成器
@@ -46,7 +47,6 @@
 
 # [娱乐致死](https://poki.com)
 _适度游戏益脑，过度游戏伤身_
-#### [yesplaymusic](https://music.hexo.icu)
 
 [拼图](https://gallerix.asia/)
 
