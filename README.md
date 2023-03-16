@@ -45,10 +45,10 @@
 
 
 
-# 娱乐至死
+# [娱乐致死](https://poki.com)
 _适度游戏益脑，过度游戏伤身_
 
-[拼图](https://gallerix.asia/)
+拼图](https://gallerix.asia/)
 
 [魔方](https://tools.bqrdh.com/rubiks-cube/)
 
