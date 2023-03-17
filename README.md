@@ -9,7 +9,7 @@
 [Baidufanyi](https://fanyi.baidu.com)
 #
 #### [Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)『SCIENTIFIC WITCHERY』
-
+(原yesplaymusic)
 
 [Cat there](https://m.niucodata.com/cat/cat.php)
 ## 生成器
