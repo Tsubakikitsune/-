@@ -8,7 +8,8 @@
 
 [Baidufanyi](https://fanyi.baidu.com)
 #
-#### [yesplaymusic](https://music.hexo.icu)
+#### [Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)『SCIENTIFIC WITCHERY』
+
 
 [Cat there](https://m.niucodata.com/cat/cat.php)
 ## 生成器
