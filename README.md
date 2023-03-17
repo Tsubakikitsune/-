@@ -45,7 +45,16 @@
 
 
 
-)
+# [娱乐致死](https://poki.com)
+_适度游戏益脑，过度游戏伤身_
+
+[拼图](https://gallerix.asia/)
+
+[魔方](https://tools.bqrdh.com/rubiks-cube/)
+
+[Dos](https://dos.zczc.cz/)
+
+[致死](https://www.crazygames.com/)
 
 
 
