@@ -6,7 +6,7 @@
 
 [Youdaofanyi](https://fanyi.youdao.com)
 
-[Baidufanyi](fanyi.baidu.com)
+[Baidufanyi](https://fanyi.baidu.com)
 #
 #### [yesplaymusic](https://music.hexo.icu)
 
