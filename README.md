@@ -26,9 +26,10 @@
 [画像](https://picrew.me/)
 
 
-# 『SCIENTIFIC WITCHERY』
-[Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)
-### 博物馆
+# _『SCIENTIFIC WITCHERY』_
+**[Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)**
+
+## 博物馆
 [Phone museum](https://mobilephonemuseum.com/)
 [三秋书屋](https://www.d4j.cn/)
 [AirPano](https://airpano.com)
