@@ -26,7 +26,7 @@
 [画像](https://picrew.me/)
 
 
-# _『SCIENTIFIC WITCHERY』_
+# 『SCIENTIFIC WITCHERY』_科学性巫术_
 **[Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)**
 
 ## 博物馆
