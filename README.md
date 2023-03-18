@@ -8,8 +8,6 @@
 
 [Baidufanyi](https://fanyi.baidu.com)
 #
-#### [Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)『SCIENTIFIC WITCHERY』
-(原yesplaymusic)
 
 [Cat there](https://m.niucodata.com/cat/cat.php)
 ## 生成器
@@ -28,12 +26,8 @@
 [画像](https://picrew.me/)
 
 
-# 搜索引擎
-
-[Bing](https://cn.bing.com)
-
-[Baidu](https://www.baidu.com)
-
+# 『SCIENTIFIC WITCHERY』
+[Ga1ahad](https://kawasakikusako.github.io/GeneralWebEngine/explorer_files/function_exp/public_api/random.html)
 ### 博物馆
 [Phone museum](https://mobilephonemuseum.com/)
 [三秋书屋](https://www.d4j.cn/)
