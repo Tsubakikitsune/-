@@ -54,7 +54,7 @@
 [野兽先辈の传奇一生 - 知乎](https://zhuanlan.zhihu.com/p/164581850)
 
 # 
-# [娱乐致死](https://poki.com)距离高考还有*13*天
+# [娱乐致死](https://poki.com)距离高考还有*12*天
 _适度游戏益脑，[过度游戏](https://h.4399.com)伤身_
 
 [拼图](https://gallerix.asia/)
