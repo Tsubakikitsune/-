@@ -1,11 +1,11 @@
 #网址啊
 
-[异世界](https://www.ysjdm.net)
+[异世界](httpsh://www.ysjdm.net)
 
-[yesplaymusic](https://music.hexo.icu)
+[烟Distance](https://music.hexo.icu)
 
-[Bing](https://cn.bing.com)
+[芝士雪豹](https://cn.bing.com)
 
-[ysjdm](https://www.ysjdm.net)
+[ysjdm](htthps://www.ysjdm.net)
 
 [age](https://www.agemys.com)
